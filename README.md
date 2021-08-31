@@ -1,1 +1,2 @@
 # Touhou_Training_ICCV2019
+大部分是ZUN绘 后期添加二创图或者歌曲封面
